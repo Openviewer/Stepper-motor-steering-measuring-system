@@ -6,3 +6,9 @@ This project aims to measure the steering condition (i.e., typically two directi
 ## Test stage 
 ### Stage 1
 #### Setup
+- Raspberry Pi 3 B+
+- 5V Stepper Motor
+- Jumper wire pack
+- Breadboard
+- ULN2003
+- Power supply

@@ -3,6 +3,7 @@
 ## Objective
 This project aims to measure the steering condition (i.e., typically two directions) of stepper motor on the 3D printer. 
 
+The rotation angle, speed and direction of the stepping motor are respectively related to the number, frequency and power-on sequence of the input pulses.
 ## Test stage 
 ### Stage 1
 This stage trys to initially test the condition of simple stepper motor.
